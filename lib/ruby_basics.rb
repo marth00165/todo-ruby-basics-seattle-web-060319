@@ -15,7 +15,7 @@ end
 
 def greeting(greeting, name)
 
-puts "#{greeting} " + "#{name} " + "!"
+puts "#{greeting} " + "#{name}"
 
 end
 
