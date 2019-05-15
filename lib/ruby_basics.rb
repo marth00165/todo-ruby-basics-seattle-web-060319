@@ -19,8 +19,8 @@ puts "#{greeting} " + "#{name}"
 
 end
 
-def return_a_value
-
+def return_a_value(value = "nice")
+return value 
 end
 
 def last_evaluated_value
