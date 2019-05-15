@@ -31,6 +31,8 @@ end
 
 def pizza_party(type = "cheese")
 
-
+return type
 
 end
+
+
