@@ -29,6 +29,8 @@ return value
 
 end
 
-def pizza_party
+def pizza_party(type = "cheese")
+
+
 
 end
