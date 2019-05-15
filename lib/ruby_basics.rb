@@ -13,7 +13,9 @@ def argue(phrase)
  return phrase
 end
 
-def greeting
+def greeting(greeting, name)
+
+puts "#{greeting} " + "#{name} " + "!"
 
 end
 
